@@ -1,2 +1,3 @@
 # hello-world
-my first github repository
+my first GitHub repository
+# This is a comment
